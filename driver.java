@@ -1,6 +1,6 @@
 package sortAlgorithms;
 
-// Amelia York - Program #3
+// Amelia York - Program #3 - April 2017
 // This driver class utilizes five different sort methods to sort an array.
 // Insertion sort searches backwards through the array for the correct place to insert a value.
 // Once the location is found, searching stops.
